@@ -1,0 +1,15 @@
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/bin/Debug/net7.0/Persistence.dll
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/bin/Debug/net7.0/Persistence.pdb
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/bin/Debug/net7.0/Domain.dll
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/bin/Debug/net7.0/Domain.pdb
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/obj/Debug/net7.0/Persistence.dll
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/obj/Debug/net7.0/Persistence.pdb
+/Users/nikolabosnjak/learning/dotnet/Reactivities/Persistence/obj/Debug/net7.0/ref/Persistence.dll
