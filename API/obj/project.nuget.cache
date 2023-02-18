@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "t4JJe/+E7J+/+REo3PYe3v/3HQJ1MoTPXznatlsWXLZ0+I/ogUEGKrE6sW/kujD8JssinWLZ9HzCAJfidAmE4A==",
+  "dgSpecHash": "ppymVLBni/ONVNlcAE9EbM2Fyc6wb1Q/sMxL0yfsMm7oWQUoQeDhvPI8Hy/xPm/eqqIdWzM+3zHS8esjwsPQXQ==",
   "success": true,
   "projectFilePath": "/Users/nikolabosnjak/learning/dotnet/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/nikolabosnjak/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/nikolabosnjak/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/nikolabosnjak/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/nikolabosnjak/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/nikolabosnjak/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "/Users/nikolabosnjak/.nuget/packages/microsoft.data.sqlite.core/7.0.3/microsoft.data.sqlite.core.7.0.3.nupkg.sha512",
     "/Users/nikolabosnjak/.nuget/packages/microsoft.entityframeworkcore/7.0.3/microsoft.entityframeworkcore.7.0.3.nupkg.sha512",

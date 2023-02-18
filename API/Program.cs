@@ -1,3 +1,5 @@
+using Application.Activities;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
@@ -14,12 +16,16 @@ builder.Services.AddCors(opt => {
     opt.AddPolicy("CorsPolicy", policy => 
     {
         policy.AllowAnyMethod().AllowAnyHeader().WithOrigins("*");
-    })
-})
+    });
+});
+
+builder.Services.AddMediatR(typeof(List.Handler));
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+app.UseCors("CorsPolicy");
+
 app.UseAuthorization();
 
 app.MapControllers();

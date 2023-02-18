@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "14kpaLax3fal1Jny0+QILzGRxGGD/vfk/8y4UST+ZbVTqWi1m+jnIwRw83CqwCW1PUm/Hh0ddwHZGTDFoTa+UQ==",
+  "dgSpecHash": "KahKimaxxmZxvnLB6nKq2J15G+tk7NoIf5O/lZZHf06u1LiBmJIJf2ehyTgyX02x7O2g7C9mRv5V54VCDVyKHQ==",
   "success": true,
   "projectFilePath": "/Users/nikolabosnjak/learning/dotnet/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/nikolabosnjak/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/nikolabosnjak/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/nikolabosnjak/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/nikolabosnjak/.nuget/packages/microsoft.data.sqlite.core/7.0.3/microsoft.data.sqlite.core.7.0.3.nupkg.sha512",
     "/Users/nikolabosnjak/.nuget/packages/microsoft.entityframeworkcore/7.0.3/microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "/Users/nikolabosnjak/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.3/microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",
